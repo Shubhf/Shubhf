@@ -2,7 +2,7 @@
 
 **AI Researcher | Multimodal & Federated Learning | Quantitative Finance**  
 
-🎓 Pre-final year B.E. Electronics & Computer Engineering @ Thapar Institute, India  
+🎓 Final year B.E. Electronics & Computer Engineering @ Thapar Institute of Engineering and Technology, India  
 📑 10+ research papers (IEEE, Springer) | 2 patents filed  
 💡 Research focus: Multimodal AI, Foundation Models, Federated Learning, Quant Finance  
 🌱 Currently: Research Intern @ IIT Jodhpur (Ubisys Lab), IIM Udaipur, AstratInvest, Samsung PRISM  
