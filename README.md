@@ -46,7 +46,7 @@ _Code to be released post-publication._
 📌 **[MediGlot 2.0 (GSoC Proposal)]()**  
 *Biomedical embeddings via fine-tuned BioBERT + ChemBERTa, clustering with GraphSAGE.*  
 
-📌 **[C-Spline Option Pricing (AstratInvest)]()**  
+📌 **[C-Spline Option Pricing (IIM Udaipur)]()**  
 *Convex regression for streaming call option surfaces using Meyer-style cubic C-splines.*  
 _Code to be released post-publication._  
 
